@@ -88,17 +88,6 @@ h1 {
   place-items: center;
   display: block;
 }
-
-header {
-  display: grid;
-  place-items: center;
- 
-}
- footer {
-  display: grid;
-  place-items: center;
-
-}
 .imgHeader {
   height: 100%;
   width: 100%;
@@ -116,4 +105,5 @@ header {
   margin-bottom: 0;
   margin-top: 5rem;
 }
+
  }
