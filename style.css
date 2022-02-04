@@ -80,7 +80,7 @@ h1 {
     height: 100%;
     display: grid;
     place-items: center;
-    margin-left: -1rem;
+    margin-left: -50px;
 }
 .foguete {
   height: auto;
