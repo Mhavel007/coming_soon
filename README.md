@@ -20,8 +20,8 @@ https://mhavel007.github.io/coming_soon/
 
 <h2 align="center">Video do Projeto:</h2>
 
+![ScreenRecorderProject2_Trim](https://user-images.githubusercontent.com/93487439/152625352-6f6957db-b58a-4927-b2b4-80c436610674.gif)
 
-https://user-images.githubusercontent.com/93487439/152622906-ba99e028-b12a-461f-8b90-8bdbf58fad80.mp4
 
 # Imagem do Projeto:
 
